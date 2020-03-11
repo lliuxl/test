@@ -1,0 +1,185 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.10.2",
+	"appid": "wx15a74e8252dd5b14",
+	"projectname": "hstower",
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"cloudfunctionTemplateRoot": "",
+	"watchOptions": {
+		"ignore": []
+	},
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "db guide",
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "监控点位",
+					"pathName": "packageA/pages/mpoint_page/mpoint_page",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "监控点位详情",
+					"pathName": "packageA/pages/mpoint_page/mpointdetail_page/mpointdetail_page",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/login/login",
+					"pathName": "pages/login/login",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "注册",
+					"pathName": "pages/login/register/register",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "packageA/pages/dispatch/dispatch",
+					"pathName": "packageA/pages/dispatch/dispatch",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "派单",
+					"pathName": "packageA/pages/dispatch/dispatch",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "packageA/pages/dispatch/dispatch_detail/dispatch_detail",
+					"pathName": "packageA/pages/dispatch/dispatch_detail/dispatch_detail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "注册申请",
+					"pathName": "packageA/pages/agree_register/agree_register",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "审批",
+					"pathName": "packageB/pages/approval/approval",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "注册申请",
+					"pathName": "packageA/pages/agree_register/agree_register",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "管理中心",
+					"pathName": "packageB/pages/manage/manage",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "月度告警列表",
+					"pathName": "packageB/pages/manage/warn/warn",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "注册",
+					"pathName": "pages/login/register/register",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/test/test",
+					"pathName": "pages/test/test",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/login/register/register",
+					"pathName": "pages/login/register/register",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/home_page/home_page",
+					"pathName": "pages/home_page/home_page",
+					"scene": null
+				}
+			]
+		}
+	}
+}
